@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="kisspng-computer-icons-logo-twitter-icon-5b32b93ce59a66.6610024115300508769405 %281%29.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="kisspng-computer-icons-logo-twitter-icon-5b32b93ce59a66.6610024115300508769405 (1).jpg" />
+  </ItemGroup>
+
+</Project>
